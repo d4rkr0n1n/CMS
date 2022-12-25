@@ -1,6 +1,6 @@
-## Getting Started
+## College Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![image](https://user-images.githubusercontent.com/39593927/209464509-486bdea9-da55-42c6-9ed5-ab450fd0bb44.png)
 
 ## Folder Structure
 
